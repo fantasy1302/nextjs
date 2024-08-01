@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d30883b4-8c85-489d-a6ee-0b491bf4cbf4" name="Changes" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "fantasy1302"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/fantasy1302/grantix-js",
+    "accountId": "b263968c-957d-4594-ab4c-20660353ead8"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/pages/blog/[[...path]].tsx" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/pages/shop/[[...path]].tsx" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.3.6/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jNT9Kt0RvhfLQG108LYs3CDAvF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/maria/Local Sites/grantix/app/public/wp-content/themes/grantix-js",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/PhpStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Footer" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PS-241.18034.69" />
+        <option value="bundled-php-predefined-ba97393d7c68-48a1a656d44e-com.jetbrains.php.sharedIndexes-PS-241.18034.69" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d30883b4-8c85-489d-a6ee-0b491bf4cbf4" name="Changes" comment="" />
+      <created>1721226383185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721226383185</updated>
+      <workItem from="1721226383679" duration="907000" />
+      <workItem from="1721279738242" duration="1011000" />
+      <workItem from="1721280835919" duration="1155000" />
+      <workItem from="1721282181838" duration="482000" />
+      <workItem from="1721282822748" duration="4386000" />
+      <workItem from="1721289652576" duration="1978000" />
+      <workItem from="1721292075904" duration="137000" />
+      <workItem from="1721292599692" duration="374000" />
+      <workItem from="1721293129055" duration="969000" />
+      <workItem from="1721294494853" duration="12267000" />
+      <workItem from="1721307674903" duration="268000" />
+      <workItem from="1721308163599" duration="1681000" />
+      <workItem from="1721370880584" duration="1753000" />
+      <workItem from="1721492359610" duration="887000" />
+      <workItem from="1721538648387" duration="69000" />
+      <workItem from="1721654302865" duration="98000" />
+      <workItem from="1721655030753" duration="2300000" />
+      <workItem from="1721722864751" duration="130000" />
+      <workItem from="1721734773727" duration="284000" />
+      <workItem from="1721822264155" duration="23000" />
+      <workItem from="1722246385176" duration="242000" />
+      <workItem from="1722246836483" duration="253000" />
+      <workItem from="1722414373707" duration="117000" />
+      <workItem from="1722414562602" duration="249000" />
+      <workItem from="1722416213653" duration="434000" />
+      <workItem from="1722419650462" duration="2195000" />
+      <workItem from="1722424477130" duration="99000" />
+      <workItem from="1722424628746" duration="79000" />
+      <workItem from="1722424750077" duration="162000" />
+      <workItem from="1722425267459" duration="203000" />
+      <workItem from="1722426772154" duration="219000" />
+      <workItem from="1722427428604" duration="775000" />
+      <workItem from="1722428248665" duration="980000" />
+      <workItem from="1722429745549" duration="183000" />
+      <workItem from="1722429980634" duration="95000" />
+      <workItem from="1722430180014" duration="68000" />
+      <workItem from="1722430454516" duration="135000" />
+      <workItem from="1722430866508" duration="24000" />
+      <workItem from="1722431381865" duration="519000" />
+      <workItem from="1722432048080" duration="81000" />
+      <workItem from="1722434542083" duration="662000" />
+      <workItem from="1722435844507" duration="49000" />
+      <workItem from="1722435973819" duration="32000" />
+      <workItem from="1722436111904" duration="39000" />
+      <workItem from="1722436250121" duration="649000" />
+      <workItem from="1722437161927" duration="114000" />
+      <workItem from="1722437782492" duration="282000" />
+      <workItem from="1722439381597" duration="780000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1722513046538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722513046538</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>

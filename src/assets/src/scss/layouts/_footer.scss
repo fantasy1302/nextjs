@@ -1,0 +1,35 @@
+.footer {
+  background-color: #eeeded;
+  padding: 40px 0px;
+
+
+  &__inner {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    &-row {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+  &__message {
+    max-width: 720px;
+
+    & a {
+      color: blue;
+    }
+  }
+
+
+  &__menu {
+    &-list {
+      display: flex;
+      column-gap: 10px;
+    }
+
+    &-social {
+      max-width: 24px;
+    }
+  }
+}

@@ -1,0 +1,29 @@
+
+.grantix-news {
+  margin: 40px 0px;
+
+  &__items {
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-between;
+    column-gap: 30px;
+  }
+
+  &__item {
+    margin: 20px 0px;
+    padding: 0px 5px;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid #e5e5e5;
+    }
+  }
+
+  &__col {
+    flex: 2;
+
+    &--sticky {
+      order: 2;
+      flex: 1;
+    }
+  }
+}

@@ -1,0 +1,9 @@
+
+.team {
+  margin: 40px 0px;
+  &__members {
+    display: flex;
+    column-gap: 20px;
+    margin-top: 20px;
+  }
+}

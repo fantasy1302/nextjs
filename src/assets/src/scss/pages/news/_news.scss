@@ -1,0 +1,66 @@
+
+.archive {
+  &__content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+  }
+  &__filters {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    margin: 20px 0px
+  }
+}
+
+.post {
+  &__intro {
+    margin-bottom: 25px;
+  }
+  &__recent {
+    margin-top: 25px;
+
+    &-cards {
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+      margin-top: 25px;
+    }
+
+    &-card {
+      max-width: 250px;
+
+      &-meta {
+        display: flex;
+        column-gap: 10px;
+      }
+    }
+
+  }
+
+
+  &__author {
+    display: flex;
+    margin: 15px 0px;
+    align-items: center;
+    column-gap: 10px;
+
+    & img {
+      border-radius: 50%;
+      max-width: 50px;
+    }
+  }
+  &__cover {
+    margin-bottom: 24px;
+    & img {
+      border-radius: 10px;
+    }
+  }
+  &__meta {
+    display: flex;
+    column-gap: 10px;
+  }
+  &__time {
+    margin-left: auto;
+  }
+}

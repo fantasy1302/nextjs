@@ -1,0 +1,16 @@
+.socials {
+  display: flex;
+  gap: 16px;
+}
+
+.social {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  @include link;
+
+  svg {
+    width: 100%;
+    height: 100%;
+  }
+}

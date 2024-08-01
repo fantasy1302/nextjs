@@ -1,0 +1,15 @@
+
+.hero {
+  margin: 40px 0px;
+  &__inner {
+    display: flex;
+    column-gap: 30px;
+    justify-content: space-between;
+  }
+
+  &__info {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+  }
+}

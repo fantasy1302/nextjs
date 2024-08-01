@@ -1,0 +1,57 @@
+
+.heateor_sl_login_ul {
+  display: flex;
+  gap: 16px;
+}
+
+.heateorSlGoogleLogin,
+.heateorSlVkontakteLogin,
+.heateorSlOdnoklassnikiLogin,
+.heateorSlYandexLogin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0F375B;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    cursor: pointer;
+    position: relative;
+    border-radius: 15px;
+  &:before {
+    position: absolute;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+  }
+}
+
+.heateorSlGoogleLogin {
+  &:before {
+    content: "G";
+  }
+}
+
+.heateorSlVkontakteLogin {
+  &:before {
+    content: "VK";
+  }
+}
+
+.heateorSlOdnoklassnikiLogin {
+    &:before {
+        content: "OK";
+    }
+}
+
+.heateorSlYandexLogin {
+    &:before {
+        content: "Y";
+    }
+}
+
+

@@ -1,0 +1,28 @@
+
+.projects-news {
+  margin: 40px 0px;
+  &__intro {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  &__inner {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+  }
+
+  &__col {
+    flex: 1;
+
+    &--sticky {
+      flex: 2;
+    }
+  }
+
+  &__item {
+    & img, & a {
+      width: 100%;
+    }
+  }
+}

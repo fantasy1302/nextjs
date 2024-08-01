@@ -1,0 +1,21 @@
+// Media queries
+$grid-breakpoints:(xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1440px,
+);
+
+// Colors
+$color-main: #164168;
+$color-hover: #1C568A;
+$color-active: #0F375B;
+$color-disabled: #B0B0B0;
+
+
+$white: #FFFFFF;
+$light-blue: #F9F9FA;
+
+// Fonts
+$font: "Roboto", -apple-system, system-ui, sans-serif;

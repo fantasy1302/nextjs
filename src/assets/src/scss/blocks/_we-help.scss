@@ -1,0 +1,9 @@
+
+.we-help {
+  margin: 40px 0px;
+    &__content {
+      display: flex;
+      justify-content: space-between;
+      column-gap: 15px;
+    }
+}
